@@ -6,7 +6,7 @@
 - Visual Studio 2017
 
 ## Quick Start
-Following steps are necessarry to get this plugin working:
+Following steps are necessary to get this plugin working:
 1. Download this repository and place it under the *Plugins* directory in your game project.
 2. TODO...
 
